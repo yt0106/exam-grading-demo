@@ -1,6 +1,6 @@
 [submodule "learning-cxx"]
 	path = learning-cxx
 	url = https://github.com/yt0106/learning-cxx.git
-[submodule "tinytensor"]
-	path = tinytensor
+[submodule "TinyInfiniTensor"]
+	path = TinyInfiniTensor
 	url = https://github.com/yt0106/TinyInfiniTensor.git
